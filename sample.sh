@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #Author:Bhavana_Mobile
 #Date: 08 oct 202
-#Task: Runs a command and dtores the output in file for multiple times
+#Task: Runs a command and stores the output in file for multiple times
 read -p "Enter the command " com
 for i in {1..10}
 do
