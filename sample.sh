@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #Author:Bhavana_Mobile
-#Date: 08 oct 202
+#Date: 08 oct 2025
 #Task: Runs a command and stores the output in file for multiple times
 read -p "Enter the command " com
 for i in {1..10}
