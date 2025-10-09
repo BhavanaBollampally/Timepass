@@ -1,0 +1,11 @@
+INFO: System started successfully
+WARNING: High CPU usage detected
+ERROR: Disk full on /dev/sda1
+INFO: Backup completed
+ERROR: Permission denied while accessing /var/log
+INFO: User login successful
+WARNING: Memory usage above 80%
+INFO: Process completed
+ERROR: Network unreachable
+INFO: System shutting down
+
